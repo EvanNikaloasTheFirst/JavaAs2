@@ -9,6 +9,7 @@ public class Student {
 
 // Student
         private BankAccount account;
+
 //        can only store bankaccount objects
         private ArrayList<BankAccount> accountList;
 
